@@ -1,0 +1,11 @@
+Strategies:
+- buy low sell high
+- trend following
+- arbitrage: exploiting differences between exchanges
+
+APIs:
+- https://developers.coinbase.com/
+- https://www.kraken.com/help/api
+- https://bittrex.com/home/api
+- https://cex.io/cex-api
+- https://poloniex.com/support/api/
