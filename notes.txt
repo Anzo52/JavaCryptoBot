@@ -3,6 +3,8 @@ Strategies:
 - trend following
 - arbitrage: exploiting differences between exchanges
 
+price indicator
+
 APIs:
 - https://developers.coinbase.com/
 - https://www.kraken.com/help/api
