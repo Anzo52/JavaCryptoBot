@@ -28,43 +28,43 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
-			<version>2.6.1</version>
+			<version>3.0.4</version>
 		</dependency>
 		<dependency>
 			<groupId>org.hsqldb</groupId>
 			<artifactId>hsqldb</artifactId>
-			<version>2.6.0</version>
+			<version>2.7.1</version>
 		</dependency>
 
 		<!-- Cassandre trading bot -->
 		<dependency>
 			<groupId>tech.cassandre.trading.bot</groupId>
 			<artifactId>cassandre-trading-bot-spring-boot-starter</artifactId>
-			<version>5.0.8</version>
+			<version>6.0.0</version>
 		</dependency>
 		<!-- Our archetype is using Kucoin exchange sanbox - Add here the dependency of the exchange you want to use -->
 		<dependency>
 			<groupId>org.knowm.xchange</groupId>
 			<artifactId>xchange-kucoin</artifactId>
-			<version>5.0.13</version>
+			<version>5.1.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.knowm.xchange</groupId>
 			<artifactId>xchange-simulated</artifactId>
-			<version>5.0.13</version>
+			<version>5.1.0</version>
 		</dependency>
 		<!-- QraphQL API -->
 		<dependency>
 			<groupId>tech.cassandre.trading.bot</groupId>
 			<artifactId>cassandre-trading-bot-spring-boot-starter-api-graphql</artifactId>
-			<version>5.0.8</version>
+			<version>6.0.0</version>
 		</dependency>
 
 		<!-- Tests -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
-			<version>2.6.1</version>
+			<version>3.0.4</version>
 			<scope>test</scope>
 			<exclusions>
 				<exclusion>
@@ -76,13 +76,13 @@
 		<dependency>
 			<groupId>org.awaitility</groupId>
 			<artifactId>awaitility</artifactId>
-			<version>4.1.1</version>
+			<version>4.2.0</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
 			<groupId>tech.cassandre.trading.bot</groupId>
 			<artifactId>cassandre-trading-bot-spring-boot-starter-test</artifactId>
-			<version>5.0.8</version>
+			<version>6.0.0</version>
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
